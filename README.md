@@ -9,7 +9,7 @@ To write a program to prepare EMI calculator using function without return type 
 1.	Start the program.
 2.	Read principal amount, rate of interest and months.
 3.	Pass these values as arguments to function.
-4.	Calculate EMI using the formula, amt=(prpow(1+r,t))/(pow(1+r,t)-1)
+4.	Calculate EMI using the formula, amt=(prpow(1+r,t))/(pow(1+r,t)-1).
 5.	Display the result.
 6.	Stop the program.
 
